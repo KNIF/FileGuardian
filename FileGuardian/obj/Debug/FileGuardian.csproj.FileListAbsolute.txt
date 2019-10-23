@@ -1,0 +1,9 @@
+C:\Users\Maurice Huber\source\repos\FileGuardian\FileGuardian\bin\Debug\FileGuardian.exe.config
+C:\Users\Maurice Huber\source\repos\FileGuardian\FileGuardian\bin\Debug\FileGuardian.exe
+C:\Users\Maurice Huber\source\repos\FileGuardian\FileGuardian\bin\Debug\FileGuardian.pdb
+C:\Users\Maurice Huber\source\repos\FileGuardian\FileGuardian\obj\Debug\FileGuardian.csprojAssemblyReference.cache
+C:\Users\Maurice Huber\source\repos\FileGuardian\FileGuardian\obj\Debug\FileGuardian.MainFrm.resources
+C:\Users\Maurice Huber\source\repos\FileGuardian\FileGuardian\obj\Debug\FileGuardian.Properties.Resources.resources
+C:\Users\Maurice Huber\source\repos\FileGuardian\FileGuardian\obj\Debug\FileGuardian.csproj.GenerateResource.cache
+C:\Users\Maurice Huber\source\repos\FileGuardian\FileGuardian\obj\Debug\FileGuardian.exe
+C:\Users\Maurice Huber\source\repos\FileGuardian\FileGuardian\obj\Debug\FileGuardian.pdb

@@ -1,0 +1,1 @@
+Put all the files you would like to protect in this folder.
